@@ -12,7 +12,7 @@
     </div><!--slide1-->
     <div id="slide2" class="slide">
     <div class="slideTxt floatLeft">
-      <h1>What is EmergencyScaniD?</h1>
+      <h1>What is EmergencyScaniDsaf?</h1>
       <p>EmergencyScaniD provides QR coded ID cards. The QR code includes important medical details such as Name, age, ICE (In Case of Emergency number), blood group and allergen which can be accessed easily with a smartphone or QR code scanner. </p>
       <a href="#"><img src="images/signupforfree.png"  /></a> </div>
     <!--slideTxt-->
